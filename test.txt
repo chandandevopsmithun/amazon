@@ -1,3 +1,6 @@
 hello
+<<<<<<< HEAD
 good evening
 good night
+=======
+>>>>>>> parent of 478de4a (Update test.txt)
